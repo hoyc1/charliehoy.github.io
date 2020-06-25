@@ -35,9 +35,11 @@ index.add_content(
 </div>
 
 <div class="parallax2"></div>
-<div class="container" style="position: absolute; left: 10%; top: 1000px; padding-bottom: 10%">
-<div class="container" style="border-style: solid; border-width: thick; border-color: #f8f8ff; padding-bottom: 2%">
-<div class="card job" style="margin-top: 20px">
+
+<div class="row justify-content-center" style="position: absolute; left: 50%; margin-left: -450px; top:1000px; width: 900px">
+<div class="container">
+<div class="container" style="border-style: solid; border-width: thick; border-color: #f8f8ff; padding-bottom: 2%;">
+<div class="card job" style="margin-top: 20px;">
     <div class="card-header bg-dark text-white">
         PhD student, <span class="institution">Cardiff University</span> (2018-Present)
     </div>
@@ -69,6 +71,7 @@ Funded by STFC
   </div>
 </div>
 </div>
+</div>
 
 <div class="container" style="padding-bottom: 5%">
 <h1 id="publication">Publications</h1>
@@ -93,6 +96,116 @@ Funded by STFC
 </table>
   </div>
 </div>
+</div>
+</div>
+
+<div class="container" style="padding-bottom: 5%">
+<h1 id="media">In the media</h1>
+
+<div class="bibbase_group_whole" id="news_2020">
+  <div class="bibbase_group" onclick="toggleGroup('news_2020')" onkeypress="toggleGroup('news_2020')" tabindex="0">
+    <i class="fa bibbase_group_head_icon fa-angle-down"></i>&nbsp;
+    <span>2020</span>
+    <span class="bibbase_group_count">
+      (2)
+    </span>
+  </div>
+  <div class="bibbase_group_body" style="display: block;">
+    <div class="bibbase_paper" id="bbc-'Blackneutronstar'discoverychangesastronomy-2020">
+      <span class="bibbase_paper_titleauthoryear">
+        <span class="bibbase_paper_title">
+          <a href="https://www.bbc.co.uk/news/science-environment-53151106">
+            'Black neutron star' discovery changes astronomy
+          </a>
+        </span>
+        <span class="bibbase_paper_author">
+          BBC News
+        </span>
+      </span>
+      <i>23rd June 2020</i>
+      <span class="note"></span>
+      <span class="bibbase_note"></span>
+      <br class="bibbase_paper_content">
+        <span class="bibbase_paper_content dontprint">
+          <a href="#" onclick="showBib(event); return false;" class="bibbase bibtex link">See more
+            <i class="fa fa-caret-down"></i>
+          </a>
+        </span>
+      </br>
+      <div class="well well-small bibbase" data-type="bibtex" style="display:none">
+        <pre style="white-space: pre-wrap;">
+        Scientists have discovered an astronomical object that has never been observed before. It is more massive than collapsed stars, known as "neutron stars", but has less mass than black holes. Such "black neutron stars" were not thought possible and will mean ideas for how neutron stars and black holes form will need to be rethought. The discovery was made by an international team using gravitational wave detectors in the US and Italy. Charlie Hoy, a PhD student from Cardiff University, UK, involved in the study...
+        </pre>
+      </div>
+    </div>
+
+    <div class="bibbase_paper" id="cardiff-cardiffstudentatthecentreofligosmysteriournewdiscovery-2020">
+      <span class="bibbase_paper_titleauthoryear">
+        <span class="bibbase_paper_title">
+          <a href="https://www.cardiff.ac.uk/news/view/2408694-cardiff-student-at-the-centre-of-ligos-mysterious-new-discovery">
+            Cardiff Student at centre of LIGOs mysterious new discovery
+          </a>
+        </span>
+        <span class="bibbase_paper_author">
+          Cardiff University
+        </span>
+      </span>
+      <i>23rd June 2020</i>
+      <span class="note"></span>
+        <span class="bibbase_note"></span>
+        <br class="bibbase_paper_content">
+          <span class="bibbase_paper_content dontprint">
+            <a href="#" onclick="showBib(event); return false;" class="bibbase bibtex link">See more
+              <i class="fa fa-caret-down"></i>
+            </a>
+          </span>
+
+        <div class="well well-small bibbase" data-type="bibtex" style="display:none">
+          <pre style="white-space: pre-wrap;">
+        A Cardiff University student has found himself at the centre of a major breakthrough discovery that could potentially help to solve a decades-old mystery. Charlie Hoy, currently in the third year of his PhD and a member of the Laser Interferometer Gravitational Wave Observatory (LIGO) Scientific Collaboration...
+          </pre>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="bibbase_group_whole" id="news_2019">
+  <div class="bibbase_group" onclick="toggleGroup('news_2019')" onkeypress="toggleGroup('news_2019')" tabindex="0">
+    <i class="fa bibbase_group_head_icon fa-angle-down"></i>&nbsp;
+    <span>2019</span>
+    <span class="bibbase_group_count">
+      (2)
+    </span>
+  </div>
+  <div class="bibbase_group_body" style="display: block;">
+    <div class="bibbase_paper" id="cqgplus-charliehoywinbeststudenttalkprizeatbritgrav-2019">
+      <span class="bibbase_paper_titleauthoryear">
+        <span class="bibbase_paper_title">
+          <a href="https://cqgplus.com/2019/05/13/charlie-hoy-and-lasse-schmieding-win-best-student-talk-prizes-at-britgrav-2019/">
+            Charlie Hoy and Lasse Schmieding win best student talk prizes at Britgrav 2019
+          </a>
+        </span>
+        <span class="bibbase_paper_author">
+          CGQ+
+        </span>
+      </span>
+      <i>13th May 2019</i>
+      <span class="note"></span>
+      <span class="bibbase_note"></span>
+      <br class="bibbase_paper_content">
+        <span class="bibbase_paper_content dontprint">
+          <a href="#" onclick="showBib(event); return false;" class="bibbase bibtex link">See more
+            <i class="fa fa-caret-down"></i>
+          </a>
+        </span>
+      </br>
+      <div class="well well-small bibbase" data-type="bibtex" style="display:none">
+        <pre style="white-space: pre-wrap;">
+	We are delighted to award Charlie Hoy and Lasse Schmieding the CQG-sponsored best student talk prize, for their talks at the recent Britgrav 2019 conference, held at Durham University...
+        </pre>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 
