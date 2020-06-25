@@ -30,7 +30,6 @@
   color: grey;
   font-size: 100px;
 }
-
 #publicationtext{
   position: absolute
   z-index: 1000;
@@ -38,8 +37,10 @@
   left: 12%;
   color: grey;
   font-size: 18px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
 }
-
 #awards{
   position: absolute
   z-index: 1000;
@@ -48,11 +49,18 @@
   color: #F8F8F8;
   font-size: 100px;
 }
-
-#git_projects{
+#media{
   position: absolute
   z-index: 1000;
   top: 3000px;
+  left: 12%;
+  color: grey;
+  font-size: 100px;
+}
+#git_projects{
+  position: absolute
+  z-index: 1000;
+  top: 3200px;
   left: 12%;
   color: grey;
   font-size: 100px;
