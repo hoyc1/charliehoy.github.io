@@ -74,7 +74,7 @@ Funded by STFC
 </div>
 
 <div class="container" style="padding-bottom: 5%">
-<h1 id="publication">Publications</h1>
+<h1 id="publication">Papers</h1>
 <h1 style="margin-top: 150px" id="publicationtext">The list below includes all publications on which I had a significant contribution to the work presented. Not included are a number of publications on which I am named as an author by virtue of being a member of the LIGO Scientific Collaboration.</h1>
 <div style="margin-top: 50px">
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fhoyc1%2Fhoyc1.github.io%2Fmaster%2Fsrc%2Fbibtex.bib&jsonp=1"></script>
