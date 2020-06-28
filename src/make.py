@@ -14,6 +14,16 @@ index.add_content(
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+<style>
+@media only screen and (max-width:749px) {
+  .parallax1 {
+    background-attachment: inherit;
+  }
+  .parallax2 {
+    background-attachment: inherit;
+  }
+}
+</style>
 <div class="parallax1"></div>
 <h1 id="name">Charlie<br>Hoy<br></h1>
 <h1 id="occupation">PhD student</h1>
