@@ -36,7 +36,7 @@ index.add_content(
 
 <div class="parallax2"></div>
 
-<div class="row justify-content-center" style="position: absolute; left: 50%; margin-left: -450px; top:1000px; width: 900px">
+<div class="row justify-content-center" style="position: absolute; left: 50%; margin-left: -400px; top:1000px; width: 800px">
 <div class="container">
 <div class="container" style="border-style: solid; border-width: thick; border-color: #f8f8ff; padding-bottom: 2%;">
 <div class="card job" style="margin-top: 20px;">
