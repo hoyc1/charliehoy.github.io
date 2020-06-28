@@ -49,7 +49,6 @@ index.add_content(
 <ul class="pt-2">
 <li>Understanding when precession can be measured from a compact binary coalesence</li>
 <li>Inferring the preferred spin distribution of Black Holes</li>
-<li>development of software and documentation to support study of open data by the wider scientific community and the public</li>
 </ul>
 
 Funded by STFC
