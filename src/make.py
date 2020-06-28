@@ -175,6 +175,34 @@ Funded by STFC
           </pre>
         </div>
       </div>
+
+    <div class="bibbase_paper" id="ligo-pressrelease-2020">
+      <span class="bibbase_paper_titleauthoryear">
+        <span class="bibbase_paper_title">
+          <a href="https://www.ligo.org/detections/GW190814/pr-english.pdf">
+            LIGO-Virgo Finds Mystery Object in 'Mass Gap'
+          </a>
+        </span>
+        <span class="bibbase_paper_author">
+          LIGO Scientific Collaboration
+        </span>
+      </span>
+      <i>23rd June 2020</i>
+      <span class="note"></span>
+        <span class="bibbase_note"></span>
+        <br class="bibbase_paper_content">
+          <span class="bibbase_paper_content dontprint">
+            <a href="#" onclick="showBib(event); return false;" class="bibbase bibtex link">See more
+              <i class="fa fa-caret-down"></i>
+            </a>
+          </span>
+
+        <div class="well well-small bibbase" data-type="bibtex" style="display:none">
+          <pre style="white-space: pre-wrap;">
+            When the most massive stars die, they collapse under their own gravity and leave behind black holes; when stars that are a bit less massive die, they explode in supernovas and leave behind dense, dead remnants of stars called neutron stars.
+          </pre>
+        </div>
+      </div>
     </div>
   </div>
 
