@@ -286,7 +286,9 @@ Funded by STFC
 </div>
 </div>
 <div class="bg-dark text-light" style="margin-bottom: 10px; height: 70px">
-  <div class="row justify-content-center" style="margin-top: 10px">
+  <div class="row justify-content-center" style="margin-top: 10px; margin-left: 0px; margin-right: 0px">
+    <h1 style="font-size: 30px">© Charlie Hoy</h1>
+  </div>
     <h1 style="font-size: 30px">© Charlie Hoy</h1>
   </div>
 </div>
