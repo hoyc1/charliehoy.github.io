@@ -66,7 +66,7 @@
         <a class='nav-link' style='margin-left:1%; font-size:22px' href='./software.html'>Software</a>
       </li>
       <li class="nav-item">
-        <a class='nav-link' style='margin-left:1%; font-size:22px' href='./downloads.html'>Downloads</a>
+        <a class='nav-link' style='margin-left:1%; font-size:22px; cursor: not-allowed' href='./downloads.html'>Downloads</a>
       </li>
     </ul>
   </div>
@@ -85,8 +85,8 @@
         <div class="col-md-8">
           <div class="card bg-light" style="border:none">
             <div class="column" style="width:90%">
-              <h3 class="card-title" style="color:rgba(0,0,0,.5)"><a style="font-size:30px">Dr Charlie Hoy</a><a style="font-size: 19px">, Ph.D. M.Sci. (Hons) ARCS</a></br><a style="font-size:30px">Postdoctoral Research Associate</a></h3>
-              <p class="card-text" style="color:rgba(0,0,0,.5); margin-top:1.2em">I am a postdoctoral research associate at <a href="https://www.cardiff.ac.uk">Cardiff University</a>. I am a gravitational-wave astrophysicist and a member of the <a href="https://www.ligo.org">LIGO Scientific Collaboration</a>. I specialise in Bayesian inference and software development.</br></br>Ph.D. in gravitational-wave astronomy (Physics) (2021), <a href="https://www.cardiff.ac.uk">Cardiff University</a></br>M.Sci. (Physics) (2017), <a href="https://www.imperial.ac.uk">Imperial College London</a></br>ARCS (Associate to the Royal College of Science) (2017)</p>
+              <h3 class="card-title" style="color:rgba(0,0,0,.5)"><a style="font-size:30px">Charlie Hoy</a><a style="font-size: 19px">, Ph.D. M.Sci. (Hons) ARCS</a></br><a style="font-size:30px">Postdoctoral Research Associate</a></h3>
+              <p class="card-text" style="color:rgba(0,0,0,.5); margin-top:1.2em">I am a postdoctoral research associate at <a href="https://www.cardiff.ac.uk">Cardiff University</a>. I am a gravitational-wave astrophysicist and a member of the <a href="https://www.ligo.org">LIGO Scientific Collaboration</a>. I specialise in Bayesian inference and software development.</br></br>Ph.D. in gravitational-wave physics (Physics) (2021), <a href="https://www.cardiff.ac.uk">Cardiff University</a></br>M.Sci. (Physics) (2017), <a href="https://www.imperial.ac.uk">Imperial College London</a></br>ARCS (Associate to the Royal College of Science) (2017)</p>
             </div>
           </div>  
         </div>
@@ -95,10 +95,42 @@
 </div>
 
 <div class="container" style="margin-top: 2em">
-    <h2 id="publication" style="color:rgba(0,0,0,.5); margin-top:2em; font-size: 30px">Featured</h2>
+    <h2 id="publication" style=":color:rgba(0,0,0,.5); margin-top:2em; font-size: 30px">Experience</h2>
+      <div class="row justify-content-center">
+        <div class="container" style="border-style: solid; width:100%; border-width: thick; border-color: #f8f8ff; padding-bottom: 2%;">
+          <div class="card job" style="margin-top: 20px;">
+            <div class="card-header text-white" style="background-color:#34568B">
+              Postdoctoral Research Associate, <span class="institution"><i>Cardiff University</i></span> (2021-present)
+            </div>
+            <div class="card-body">
+              <ul class="pt-2">
+                <li>Understanding when spin-induced orbital precession is measurable in gravitational-waves,</li>
+                <li>Inferring the preferred spin distribution of black-holes through hierarchical Bayesian inference,</li>
+                <li>Developing Python tools for analysing Bayesian data with HTML interface,</li>
+                <li>Funded by STFC</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<style>
+.card-hover {
+  transition: all .3s;
+}
+
+.card-hover:hover {
+  transform: translate(0px, -5px);
+}
+</style>
+
+<div class="container">
+    <h2 id="publication" style="color:rgba(0,0,0,.5); margin-top:1em; font-size: 30px">Featured</h2>
     <div class="row" style="margin-top: 2em">
         <div class="col-sm-4">
-          <div class="card mb-4 text-dark shadow-lg" style="background:#F8F8F8; cursor: pointer" onmouseover="" onclick="window.location='https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html'">
+          <div class="card mb-4 text-dark shadow-lg card-hover" style="background:#F8F8F8; cursor: pointer; border-radius:10px" onmouseover="" onclick="window.location='https://www.nytimes.com/2020/06/24/science/black-hole-ligo-gravitational.html'">
             <div class="row">
               <div class="card-body">
                 <img src="./images/nytimes.jpg" style="width:83%; display:block; margin-left:auto; margin-right:auto">
@@ -108,7 +140,7 @@
           </div>
         </div>
         <div class="col-sm-4">
-          <div class="card mb-4 text-dark shadow-lg" style="background:#F8F8F8; cursor: pointer" onmouseover="" onclick="window.location='https://www.bbc.co.uk/news/science-environment-53151106'">
+          <div class="card mb-4 text-dark shadow-lg card-hover" style="background:#F8F8F8; cursor: pointer; border-radius:10px" onmouseover="" onclick="window.location='https://www.bbc.co.uk/news/science-environment-53151106'">
             <div class="row">
               <div class="card-body">
                 <img src="./images/bbcnews.jpg" style="width:100%">
@@ -118,7 +150,7 @@
           </div>
         </div>
         <div class="col-sm-4">
-          <div class="card mb-4 text-dark shadow-lg" style="background:#F8F8F8; cursor: pointer" onmouseover="" onclick="window.location='https://www.cardiff.ac.uk/news/view/2408694-cardiff-student-at-the-centre-of-ligos-mysterious-new-discovery'">
+          <div class="card mb-4 text-dark shadow-lg card-hover" style="background:#F8F8F8; cursor: pointer; border-radius:10px" onmouseover="" onclick="window.location='https://www.cardiff.ac.uk/news/view/2408694-cardiff-student-at-the-centre-of-ligos-mysterious-new-discovery'">
             <div class="row">
               <div class="card-body">
                 <img src="./images/cardiffuniversity.jpg" style="width:100%">
@@ -143,7 +175,7 @@
     </div>
     <div class="container" style="margin-top: 1em">
       <div class="row justify-content-center">
-        <h5 style="font-size: 18px; color:rgba(0,0,0,.5)">© Charlie Hoy</h5>
+        <h5 style="font-size: 18px; color:rgba(0,0,0,.5)">© Charlie Hoy 2021</h5>
       </div>
     </div>
 </footer>

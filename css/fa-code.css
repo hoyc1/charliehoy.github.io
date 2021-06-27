@@ -1,3 +1,11 @@
+.fa {
+  transition: all .3s;
+}
+.fa:hover {
+  transform: translate(0px, -3px);
+  text-decoration: none;
+}
+
 .fa-facebook-square {
   color: lightgrey
 }
