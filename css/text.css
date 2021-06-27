@@ -65,3 +65,11 @@
   color: grey;
   font-size: 100px;
 }
+.nav-link {
+  border-bottom: 3px solid transparent;
+}
+.nav-link:hover {
+  transition: all 1s;
+  border-bottom-color: rgba(52,86,139, 0.5);
+  border-bottom-opacity: 10%;
+}
