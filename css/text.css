@@ -28,7 +28,7 @@
   top: 1700px;
   left: 12%;
   color: grey;
-  font-size: 100px;
+  font-size: 22px;
 }
 #publicationtext{
   position: absolute
@@ -36,7 +36,7 @@
   top: 2000px;
   left: 12%;
   color: grey;
-  font-size: 18px;
+  font-size: 16px;
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
@@ -64,4 +64,12 @@
   left: 12%;
   color: grey;
   font-size: 100px;
+}
+.nav-link {
+  border-bottom: 3px solid transparent;
+}
+.nav-link:hover {
+  transition: all 1s;
+  border-bottom-color: rgba(52,86,139, 0.5);
+  border-bottom-opacity: 10%;
 }
